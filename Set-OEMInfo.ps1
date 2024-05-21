@@ -14,9 +14,9 @@ if ($tsenv){
     
     }
 
-if (!($SupportHours)){$SupportHours = "9 AM - 5 PM"}
-if (!($SupportPhone)){$SupportPhone = "0118 999 881 999 119 725 3"}
-if (!($SupportUrl)){$SupportUrl = "https://www.recastsoftware.com/"}
+if (!($SupportHours)){$SupportHours = "8:30 AM - 5:30 PM"}
+if (!($SupportPhone)){$SupportPhone = "-"}
+if (!($SupportUrl)){$SupportUrl = "mrwolf@menariniapac.com"}
 
 
 $cs = Get-WmiObject -Class Win32_ComputerSystem
