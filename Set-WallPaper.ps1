@@ -1,13 +1,3 @@
-<# Set WallPaper
-Gary Blok @gwblok Recast Software
-
-Used with OSDCloud Edition OSD
-
-Replaces Default Windows WallPaper with your own
-
-#>
-
-
 $ScriptVersion = "22.3.8.1"
 
 function enable-privilege {
